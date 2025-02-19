@@ -14,7 +14,12 @@ A Flutter application to help Muslims track their daily prayers, find Qibla dire
 
 ## Installation
 
-You can download the latest Android APK from the [releases](https://github.com/ragibmondal/salat_tracker/releases) section.
+### Android
+
+You can download and install the Android APK directly:
+[Download Salat Tracker APK](https://github.com/ragibmondal/salat_tracker/raw/main/releases/salat_pro.apk)
+
+Or get it from the [releases](https://github.com/ragibmondal/salat_tracker/releases) section.
 
 ### Build from Source
 
