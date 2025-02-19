@@ -1,16 +1,45 @@
-# salat_pro
+# Salat Tracker
 
-trac your salat
+A Flutter application to help Muslims track their daily prayers, find Qibla direction, and maintain their prayer history.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Track daily prayers
+- Qibla compass direction
+- Prayer history and statistics
+- Prayer time notifications
+- Calendar view
+- Dark/Light theme support
+- Multi-platform support (Android, iOS, Web)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can download the latest Android APK from the [releases](https://github.com/ragibmondal/salat_tracker/releases) section.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Build from Source
+
+1. Make sure you have Flutter installed. If not, follow the [official installation guide](https://flutter.dev/docs/get-started/install).
+
+2. Clone the repository:
+```bash
+git clone https://github.com/ragibmondal/salat_tracker.git
+```
+
+3. Navigate to the project directory and get dependencies:
+```bash
+cd salat_tracker
+flutter pub get
+```
+
+4. Run the app:
+```bash
+flutter run
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).

@@ -1,5 +1,6 @@
 # Flutter/Dart specific
 **/build/
+!**/build/app/outputs/flutter-apk/
 **/ios/Pods/
 .dart_tool/
 .flutter-plugins
