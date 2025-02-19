@@ -1,11 +1,10 @@
 # Salat Tracker
 
-A Flutter application to help Muslims track their daily prayers, find Qibla direction, and maintain their prayer history.
+A Flutter application to help Muslims track their daily prayers and maintain their prayer history.
 
 ## Features
 
 - Track daily prayers
-- Qibla compass direction
 - Prayer history and statistics
 - Prayer time notifications
 - Calendar view
