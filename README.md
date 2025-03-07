@@ -1,6 +1,4 @@
-It's about using as many conjunctions and punctuations as possible. The sentences should be COMPOUND, COMPLEX, COMPOUND-COMPLEX. Use Bullets for the list and the title as is. The grammar has to be top-notch with no gross errors and easy to understand!!!!!.
-
-TEXT: # Salat Tracker
+# Salat Tracker
 
 A Flutter app that is aimed at making it possible for a Muslim to track, manage, and make statistics for his daily prayers.
 
