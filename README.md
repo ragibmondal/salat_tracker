@@ -1,10 +1,10 @@
-#Salat Tracker.
+###Salat Tracker.
 
 Salat Tracker is Flutter based application that helps Muslims to effortlessly track, manage and analyse their daily prayers.  Stay persistent in your Salat with reminders, analytical statistics and easy to use friendly UI.
 
 ---.
 
-##🌟 Features.
+###🌟 Features.
 
 ###🕌 Prayer Tracking.
 - This application lets you track the five obligatory prayers of Islam.
