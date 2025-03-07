@@ -1,55 +1,107 @@
 # Salat Tracker
 
-A Flutter app that is aimed at making it possible for a Muslim to track, manage, and make statistics for his daily prayers.
+Salat Tracker is a Flutter app designed to help Muslims track, manage, and analyze their daily prayers effortlessly. Stay consistent in your prayers with reminders, insightful statistics, and a user-friendly interface.
 
-## Features
+---
 
-### Prayer Tracking
-- Keep a record of all the five obligatory prayers for a day, namely, Fajr, Dhuhr, Asr, Maghrib, and Isha.
-- Categorize prayers as Completed, Qaza, or Reset status.
-- Indicators change in real time according to the prayer statuses;
-- Customizable settings for prayer times;
-- One-touch actionable method for marking prayers.
+## 🌟 Features
 
-### Prayer Reminder
-- Reminders for prayer times that can be set up according to the user's needs
-- Selections between Azan and built-in notification sounds
-- Flexible reminder time options (Prayer time, 5/10/15 minutes before)
-- Will ring even in Silent mode
-- Notification badges for missed prayers
+### 🕌 Prayer Tracking
+- Tracking all five obligatory prayers: **Fajr, Dhuhr, Asr, Maghrib, and Isha**.
+- Mark prayers as **Completed**, **Qaza**, or **Reset**.
+- Real-time indicators reflecting the status of prayers.
+- Customizable settings for prayer times.
+- Single touch action to complete or reset a prayer.
 
-### Statistics and Analytics
+### 🔔 Prayer Reminders
+- Set the reminders to the prayer times.
+- Options include either **Azan** or built-in notification sounds.
+- Flexible reminder options, including **on time**, **5 minutes before**, and **10 minutes before**.
+- Even works when the phone is in Silent Mode.
+- Notification badges for missed prayers.
 
-- Full statistics and visual graphs on every prayer done; - A feature to keep track of one's prayer streak; - General statistics will include the following: - The sum total of all prayers, including complete and Qaza; - Performance analysis on the basis of the completion of prayers per day; - Analysis of the completion of each prayer. - Date range selection for the statistics.
+### 📊 Statistics & Analytics
+- View the graphs and **full statistics** on your prayer performance.
+- Track your **prayer streak**.
+- Other general statistics include:
+  - Total prayers (Completed & Qaza)
+  - Daily performance analysis
+  - Completion rate for each prayer
+- Choose a **custom date range** for these statistics.
+- Self-rating with a **star rating system**.
+- Viewing the **prayer logs** for self-monitoring of the regularity. ### 🏆 Achievement System
+Unlock **Trophies** that build on your streaks: - **Beginner** – 3-day streak - **Consistent** – 7-day streak - **Dedicated** – 10-day streak - **Prayer Master** – 30-day streak - **Prayer Legend** – 100-day streak - **Trophy showcase & progression tracking**.
 
-### Achievement System
+### 📅 Prayer History
+- **Calendar view** for the easy tracking. - **Detailed logs** on the previous prayers. - **Custom Qaza prayer reminders**. - **Prayer edit history**. - **View past prayer statistics and trends**.
 
-Trophies with rankings: - Beginner (3 days streak) - Consistent (7 days streak) - Dedicated (10 days streak) - Prayer Master (30 days streak) - Prayer Legend (100 days streak) - Visual trophy showcase and progression.
-
-### Prayer History
-
-- Calendar view of the prayer history - Detailed logs of all the prayers - Lists of all past prayer times
-
-- Qaza prayers custom reminders
-- Prayer edit history
-- Status of each prayer by date
-### Data Management
-- Export/Import prayer's data as a JSON file - Local storage of data - Backup of data automatically - Protection of data privacy - No uploads to the server are required
-
-### Customization Options
-- Variants of themes: Dark and Light mode - Multiple accent color choices - Customizable prayer time setting - Personalized notification preference
-
-### User Interface
-- Clean and modern Materia Design
-- Intuitive UI
-- Fab buttons
-- Progress indicators
-- Snackbars
-- Responsive layout
-- Subtle animations
-
-### Security and Privacy - No data collection at all - While it works offline - Store data locally only - No sharing with third-party - Consents are very minimal More Options - Language support - Time adjustment - Streak protection - Fast prayer marking - Prayer notes - Prayer time widgets - Prayer completion reminders
-
-### Technical Features Offline-first architecture, Fast & responsive, Low battery consumption, Minimal storage requirements, Regular updates and improvements, Cross-device compatibility, Data persistence. Salat Tracker for Android can be downloaded and installed from the Android APK: [Download Salat Tracker APK](https://github.com/ragibmondal/salat_tracker/raw/main/releases/salat_pro.apk) Or get it from the [releases](https://github.com/ragibmondal/salat_tracker/releases) section. ### Build from Source
-
-1. Make sure that you have Flutter installed. If you don't, follow the [official installation guide](https://flutter.dev/docs/get-started/install). 2. Clone the repository: ```bash git clone https://github.com/ragibmondal/salat_tracker.git``` 3. Navigate to the project directory and get dependencies: ```bash cd salat_tracker flutter pub get ``` 4. Run the app: ```bash flutter run ``` ## Contributing Contributions are welcome! Please feel free to submit a Pull Request. ## License This project is open source and available under the [MIT License](LICENSE).
+### 📂 Data Management
+- **Backup/Restore: Export/Import** the prayer data as **JSON**.
+- **Local Storage**: Secure your data. 
+- Automatically Back up the Data.  
+**No server uploads** AND Complete Security of Data. 
+### 🎨 Customization 
+- Dark and Light mode. 
+- Multiple accent color themes. 
+- Personalized notification settings. 
+- Customizable prayer times. 
+ 
+### 🔒 Security & Privacy 
+- No data collection. 
+- Offline functionality. 
+- No third-party sharing. 
+- Minimal user consents required. 
+ 
+### 📱User Interface 
+- Modern & intuitive Material Design. 
+- Floating Action Buttons (FABs) for quick actions. 
+- Progress indicators & snackbars for feedback. 
+- Responsive layout for all screen sizes. 
+- Subtle animations for a smooth experience. 
+ 
+🛠️ Technical Features 
+- Offline-first architecture. 
+- Fast & lightweight. 
+- Low battery & storage usage. 
+- Regular updates & improvements. 
+- Cross-device compatibility. 
+- Persistent data storage. 
+ 
+--- 
+ 
+## 📥 Download Salat Tracker 
+ 
+📌 **Android APK:** [Download Now](https://github.com/ragibmondal/salat_tracker/raw/main/releases/salat_pro.apk) 
+ 
+📌 **Releases Page:** [View Releases](https://github.com/ragibmondal/salat_tracker/releases) 
+ 
+--- 
+ 
+## 🛠️Build from Source 
+ 
+1️⃣ Make sure you have **Flutter** installed. If not, follow the [official guide](https://flutter.dev/docs/get-started/install). 
+ 
+2️⃣ Clone the repository: ```bash 
+ git clone https://github.com/ragibmondal/salat_tracker.git 
+``` 
+ 
+3️⃣ Navigate to the project directory & install dependencies: ```bash 
+ cd salat_tracker 
+flutter pub get
+ ``` 
+ 
+4️⃣ Run the app: ```bash 
+ flutter run 
+``` 
+ 
+--- 
+ 
+## 🤝Contributing 
+Contributions are welcome! Feel free to submit a **Pull Request**. 
+ 
+--- 
+ 
+## 📜License 
+This project is open-source and available under the [MIT License](LICENSE). 
+ 
+---
